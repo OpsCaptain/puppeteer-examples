@@ -6,7 +6,7 @@
     "puppeteer": "^1.6.2"
   },
   "scripts": {
-    "start": "node search/amazon.js"
+    "start": "node 2.\ search/amazon.js"
   },
   "devDependencies": {
     "eslint-plugin-mocha": "^4.11.0",
